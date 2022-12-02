@@ -1,6 +1,8 @@
-:bust_in_silhouette: Hello, my name is Brian. (@brianputhuff)
+:pig: Hello, my name is Brian.
+
 - :space_invader: I make small computer games.
 - :coffee: I also drink lots of coffee.
+- :octocat: This is my GitHub profile.
 
 <!---
 brianputhuff/brianputhuff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
