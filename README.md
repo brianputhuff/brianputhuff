@@ -1,6 +1,6 @@
-:pig: Hello, my name is Brian.
+Hello, my name is Brian.
 
-- :space_invader: I make small computer games.
+- :space_invader: I make silly computer games.
 - :coffee: I also drink lots of coffee.
 
 
